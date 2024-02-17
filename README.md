@@ -1,15 +1,15 @@
 # 100_DSA_Problems_in_100_Days
 
-### 1. Arrays and Strings
-### 2. Linked Lists
-### 3. Stacks and Queues
-### 4. Trees and Graphs
-### 5. Hashing
-### 6. Sorting and Searching
-### 7. Dynamic Programming
-### 8. Backtracking
-### 10. Greedy Algorithms
-### 11. Advanced Data Structures
+#### 1. Arrays and Strings
+#### 2. Linked Lists
+#### 3. Stacks and Queues
+#### 4. Trees and Graphs
+#### 5. Hashing
+#### 6. Sorting and Searching
+#### 7. Dynamic Programming
+#### 8. Backtracking
+#### 10. Greedy Algorithms
+#### 11. Advanced Data Structures
 
 How to Approach the 100-Day Challenge:
 
